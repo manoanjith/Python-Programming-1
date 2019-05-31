@@ -1,6 +1,6 @@
 a=eval(input())
 if(a>0):
-    print("positive")
+    print("Positive")
 elif(a<0):
     print("negative")
 else:
