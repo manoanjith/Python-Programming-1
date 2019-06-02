@@ -7,4 +7,4 @@ elif(ch == '!' or ch == '@' or ch == '#' or ch == '$' or ch == '%' or ch == '^' 
         or ch == '(' or ch == ')'):
     print("invalid")
 else:
-    print("consonant")
+    print("Consonant")
