@@ -1,3 +1,3 @@
-a=eval(input())
-b=list(a)
-print(max(b))
+a=input()
+a=list(a)
+print(max(a))
