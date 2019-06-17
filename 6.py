@@ -1,5 +1,5 @@
 a=int(input())
-b=0
-while (b<a):
+c=0
+while (c<a):
     print("Hello")
-    b=b+1
+    c=c+1
